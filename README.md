@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **himanshuverma2660@gmail.com**
 
-- ⚡ Fun fact **I**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
