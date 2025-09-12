@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Verma</h1>
-<h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="top" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 - 🌱 I’m currently learning **ReactNative,ML & AI**
