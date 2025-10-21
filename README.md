@@ -1,6 +1,6 @@
 <h1 align="center">Hey Himanshu here 🙃</h1>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF1nCQ4mD7n6w/profile-displaybackgroundimage-shrink_350_1400/B56ZkEvqG5G0Ac-/0/1756721227782?e=1760572800&v=beta&t=CFhuTUUD4PiuVG0FR9LftpF9W62tqV0tPpZwiWksc7k" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQF1nCQ4mD7n6w/profile-displaybackgroundimage-shrink_350_1400/B56ZkEvqG5G0Ac-/0/1756721227782?e=1762387200&v=beta&t=IanCUOyqZPjJjLxVxuc4rVtcmZTygA-kt1qX5XJLeeU" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
