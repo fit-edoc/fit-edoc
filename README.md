@@ -5,7 +5,7 @@
 <h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 🌱 I’m currently learning **ReactNative,ML & AI**
+- 🌱 I’m currently learning **Nextjs and AI,ML**
 
 - 💬 Ask me about **REACT,MONGOdb,EXPRESSJS,NODEJS,GSAP**
 
