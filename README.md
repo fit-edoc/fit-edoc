@@ -1,6 +1,6 @@
 <h1 align="center">Hey Himanshu here 🙃</h1>
 <p align="center">
-  <img src="https://lottiefiles.com/free-animation/programming-jbSmNWIUy1" width="100%" title="Intro Card" alt="Intro Card">
+Full stack web developer
 </p>
 <h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
