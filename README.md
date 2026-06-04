@@ -1,4 +1,4 @@
-## Hi 👋, I'm Himanshu Verma
+## Hi 👋, I'm [Himanshu Verma](https://himanshudocs.online/)
 ### Full Stack Developer  (MERN Stack)
 
 I enjoy building modern, scalable, and user-friendly web applications. Currently exploring Next.js, AI/ML, and creating interactive experiences with GSAP.
