@@ -1,15 +1,21 @@
-<h1 align="center">Hey Himanshu here 🙃</h1>
-<p align="center">
-Full stack web developer
-</p>
-<h3 align="center">Crafting Scalable & Dynamic Web Solutions with MERN</h3> <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## Hi 👋, I'm Himanshu Verma
+### Full Stack Developer  (MERN Stack)
+
+I enjoy building modern, scalable, and user-friendly web applications. Currently exploring Next.js, AI/ML, and creating interactive experiences with GSAP.
+
+##  About Me </br>
+ 🔺Learning Generative Ai , rag system  </br>
+ 🔺Building full-stack applications with the MERN Stack  </br>
+ 🔺Love creating smooth UI/UX experiences using React and GSAP  </br>
+ 🔺Ask me about React, Node.js, Express.js, MongoDB, GSAP  </br>
+ 🔺Reach me at: himanshuverma2660@gmail.com  </br>
 
 
-- 🌱 I’m currently learning **Nextjs and AI,ML**
+-  I’m currently learning **Nextjs and AI,ML**
 
-- 💬 Ask me about **REACT,MONGOdb,EXPRESSJS,NODEJS,GSAP**
+-  Ask me about **REACT,MONGOdb,EXPRESSJS,NODEJS,GSAP**
 
-- 📫 How to reach me **himanshuverma2660@gmail.com**
+-  How to reach me **himanshuverma2660@gmail.com**
 
   
 
